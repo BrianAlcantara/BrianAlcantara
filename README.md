@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianAlcantara
 - 👀 I’m interested in Data, SQL, Python, and the Japanese Language.
-- 🌱 I’m currently learning SQL and Japanese N2.
+- 🌱 I’m currently learning SQL and Japanese N2 for the Japanese Language Proficiency Test.
 - 💞️ I’m looking to collaborate on SQL projects.
 - 📫 You can reach me at brianalcantara@gmail.com
 
