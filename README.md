@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrianAlcantara
-- 👀 I’m interested in Data, SQL, Python, and the Japanese Language.
-- 🌱 I’m currently learning SQL and Japanese N2 for the Japanese Language Proficiency Test.
-- 💞️ I’m looking to collaborate on SQL projects.
+- 👀 I’m interested in optimizing sales operations, Salesforce, business intelligence and the Japanese Language.
+- 🌱 I am Salesforce Admin certified and will be taking the Salesforce Business Administration Certification in January.
+- 💞️ You can find my Tableau Public portfolio at https://public.tableau.com/app/profile/brianalcantara/vizzes. I really enjoy making dashboards and finding ways to make business intelligence visualization the best it can be.
 - 📫 You can reach me at brianalcantara@gmail.com
 
 <!---
