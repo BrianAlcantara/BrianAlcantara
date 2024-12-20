@@ -1,4 +1,7 @@
-![Header](Readme_Header.png "Header")(https://linkedin.com/in/briandesu/)
+<a href="#" style="pointer-events: none;">
+    <img src="Readme_Header.png" alt="Header" title="Header">
+</a>
+
 
 
 - After over 10 years in B2B sales I became passionate in optimizing sales operations, Salesforce and business intelligence to help improve sales.
