@@ -9,6 +9,8 @@
  
 - You can find my dashboard portfolio at <a href="https://public.tableau.com/app/profile/brianalcantara/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a> . 
 - You can reach me at brianalcantara@gmail.com or connect with me on <a href="https://linkedin.com/in/briandesu/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+- If you would like to discuss career options, here is my full <a href="https://brianalcantara.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/Resume-5b9bd5" alt="Resume"></a>
+
 <!---
 BrianAlcantara/BrianAlcantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
