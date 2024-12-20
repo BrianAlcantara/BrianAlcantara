@@ -1,3 +1,5 @@
+[![Header](Readme_Header.png "Header")]
+
 - Hi, I’m Brian Alcantara
 - I’m interested in optimizing sales operations, Salesforce, business intelligence and the Japanese Language.
 - I am Salesforce Admin certified and will be taking the Salesforce Business Analyst Certification in January.
