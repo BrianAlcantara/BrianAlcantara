@@ -16,7 +16,7 @@
 
 - If you would like to discuss career options, here is my full <a href="https://brianalcantara.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/Resume-5b9bd5" alt="Resume"></a>
 
-- Shorter 2 page PDF resume can be downloaded [here](https://github.com/BrianAlcantara/BrianAlcantara/blob/4ada58b9a3b1d49d8eeb3a32423cd3534f79df8d/BRIAN%20ALCANTARA%20RESUME%202024.pdf)
+- Shorter 2 page PDF resume can be downloaded [here](https://github.com/BrianAlcantara/ResumePDF/blob/main/BRIAN%20ALCANTARA%20RESUME%202024.pdf#:~:text=Raw%20file%20content-,Download,-%E2%8C%98)
 
 <!---
 BrianAlcantara/BrianAlcantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
