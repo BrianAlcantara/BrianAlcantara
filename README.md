@@ -4,8 +4,8 @@
 
 
 
-- After over 10 years in B2B sales I became passionate in optimizing sales operations, Salesforce and business intelligence.
-- I am Salesforce Admin certified and will be taking the Salesforce Business Analyst Certification in January.
+- After over 10 years in B2B sales I became passionate in managing projects, optimizing sales operations, Salesforce and business intelligence.
+- I am Salesforce Admin certified and plan to take the Salesforce Business Analyst Certification shortly.
 - I love studying the Japanese Language, backpacking and hiking in my free time.
 
 - Hopefully I can get this soon so I can go back to hiking. <a href="#" style="pointer-events: none;"><img src="Salesforce.png" alt="Salesforce logo">
