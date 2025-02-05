@@ -7,7 +7,7 @@
 - After over 10 years in B2B sales I became passionate in managing projects, optimizing sales operations, Salesforce and business intelligence.
 - I am Salesforce Admin certified and plan to take the Salesforce Business Analyst Certification shortly.
 - I love studying the Japanese Language, backpacking and hiking in my free time.
-- I created this Github because I love to learn and I have never used HTML in the past and wanted to try to turn my resume into a webpage. You can find it below.
+- I created this Github because I love to learn and I have never used HTML or CSS in the past and wanted to try to put my resume into a webpage. You can find it below.
 
 - Shortly <a href="#" style="pointer-events: none;"><img src="Salesforce.png" alt="Salesforce logo"></a> and then perhaps it is time to get my PMP.
 
